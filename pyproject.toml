@@ -3,3 +3,4 @@ name = "terrahour"
 version = "0.1.0"
 description = "A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time that works across time zones."
 requires-python = ">=3.10"
+# drop an unused branch
